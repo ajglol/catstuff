@@ -1,0 +1,26 @@
+{
+    "station":
+    [
+     {
+     "name": "The Cat",
+     "streamURL": "http://5.63.151.52:8066/stream",
+     "imageURL": "https://thisisthecat.com/wp-content/uploads/2022/03/1079widebb.png",
+     "desc": "Proper local radio",
+     "longDesc": "Proper local radio broadcasting on 107.9 FM"
+     },
+     {
+     "name": "Cat Xtra",
+     "streamURL": "http://5.63.151.52:7009/stream",
+     "imageURL": "https://thisisthecat.com/wp-content/uploads/2022/03/xtrawidebb.png",
+     "desc": "New music and 00s pop throwbacks",
+     "longDesc": "New music and 00s pop throwbacks"
+     },
+     {
+     "name": "Cat Sport",
+     "streamURL": "http://server10.reliastream.com:8135/stream",
+     "imageURL": "https://thisisthecat.com/wp-content/uploads/2022/03/sportwidebb.png",
+     "desc": "Live football commentary",
+     "longDesc": "Live local sport commentary and talk"
+     },
+    ]
+}
