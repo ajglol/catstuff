@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serviceInformation xmlns="http://www.worlddab.org/schemas/spi/31" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creationTime="2014-06-13T10:32:41+01:00" originator="RadioDNS XSI Generator" xml:lang="en" xsi:schemaLocation="http://www.worlddab.org/schemas/spi/31 spi_31.xsd">
+  <services>
+    <service>
+      <shortName>Cat Xtra</shortName>
+      <mediumName>Cat Xtra</mediumName>
+      <mediaDescription>
+        <shortDescription>Fresh sounds for South Cheshire</shortDescription>
+      </mediaDescription>
+      <epg:link xmlns:epg="http://www.worlddab.org/schemas/epgDataTypes/14" url="https://catxtra.radio" mimeValue="text/html" description="Cat Xtra website" xml:lang="en-GB"/>
+      <mediaDescription>
+        <multimedia url="https://images.squarespace-cdn.com/content/63df701325007b1b785fe6b3/a4a6a5e8-00d4-416d-899f-b791f30df2ad/32x32.png" mimeValue="image/jpeg" width="32" height="32"/>
+      </mediaDescription>
+      <mediaDescription>
+        <multimedia url="https://images.squarespace-cdn.com/content/63df701325007b1b785fe6b3/54cd6b97-141b-4fc5-afd9-6f8e1a94d057/112x32.png" mimeValue="image/jpeg" width="112" height="32"/>
+      </mediaDescription>
+      <mediaDescription>
+        <multimedia url="https://images.squarespace-cdn.com/content/63df701325007b1b785fe6b3/937e1d8f-75fe-43c9-83c6-c560d003ad00/128x128.png?content-type=image%2Fpng" mimeValue="image/jpeg" width="128" height="128"/>
+      </mediaDescription>
+      <mediaDescription>
+        <multimedia url="https://images.squarespace-cdn.com/content/63df701325007b1b785fe6b3/595e42ef-b7ff-4552-bc98-d8cd1d2dce21/320x240.png" mimeValue="image/jpeg" width="320" height="240"/>
+      </mediaDescription>
+      <mediaDescription>
+        <multimedia url="https://images.squarespace-cdn.com/content/63df701325007b1b785fe6b3/3b090fea-a3e7-4d5a-91ad-32892fd632c6/600x600.png" mimeValue="image/jpeg" width="600" height="600"/>
+      </mediaDescription>
+      <geolocation>
+        <point>53.08899317082327 -2.4549292598189885</point>
+      </geolocation>
+    </service>
+  </services>
+</serviceInformation>
