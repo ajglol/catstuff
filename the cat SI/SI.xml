@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serviceInformation xmlns="http://www.worlddab.org/schemas/spi/31" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creationTime="2014-06-13T10:32:41+01:00" originator="RadioDNS XSI Generator" xml:lang="en" xsi:schemaLocation="http://www.worlddab.org/schemas/spi/31 spi_31.xsd">
+  <services>
+    <service>
+      <shortName>The Cat</shortName>
+      <mediumName>The Cat</mediumName>
+      <mediaDescription>
+        <shortDescription>The local radio station for Crewe and Nantwich</shortDescription>
+      </mediaDescription>
+      <epg:link xmlns:epg="http://www.worlddab.org/schemas/epgDataTypes/14" url="https://thecat.radio" mimeValue="text/html" description="The Cat website" xml:lang="en-GB"/>
+      <mediaDescription>
+        <multimedia url="https://images.squarespace-cdn.com/content/63df701325007b1b785fe6b3/a15130f0-6a67-4943-ac91-f4e070fc7386/32x32.png" mimeValue="image/jpeg" width="32" height="32"/>
+      </mediaDescription>
+      <mediaDescription>
+        <multimedia url="https://images.squarespace-cdn.com/content/63df701325007b1b785fe6b3/b5839c49-dbf3-43a0-a53a-453822e8e52e/112x32.png" mimeValue="image/jpeg" width="112" height="32"/>
+      </mediaDescription>
+      <mediaDescription>
+        <multimedia url="https://images.squarespace-cdn.com/content/63df701325007b1b785fe6b3/674333f2-849e-4cac-ad87-d7471b94826c/128x128.png" mimeValue="image/jpeg" width="128" height="128"/>
+      </mediaDescription>
+      <mediaDescription>
+        <multimedia url="https://images.squarespace-cdn.com/content/63df701325007b1b785fe6b3/3561016c-bd11-4840-93c4-e5b15f4f2b01/320x240.png" mimeValue="image/jpeg" width="320" height="240"/>
+      </mediaDescription>
+      <mediaDescription>
+        <multimedia url="https://images.squarespace-cdn.com/content/63df701325007b1b785fe6b3/0a17d43c-d221-4ffc-8920-b03dc942abb4/600x600.png" mimeValue="image/jpeg" width="600" height="600"/>
+      </mediaDescription>
+      <geolocation>
+        <point>53.08898672643741 -2.4548863447567184</point>
+      </geolocation>
+    </service>
+  </services>
+</serviceInformation>
